@@ -16,7 +16,8 @@
 💬 Ask me about machine learning, Python, TensorFlow, and NLP.
 
 📫 How to reach me: 
-        [LinkedIn](https://www.linkedin.com/in/subramanya-nayak3)
+        [LinkedIn](https://www.linkedin.com/in/subramanya-nayak3) '\n'
+
         [Mail](subramanyanayak3@gmail.com)
 
 
