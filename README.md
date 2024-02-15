@@ -52,6 +52,8 @@ You can also find me on:
 
 ⚡ Fun fact: I love exploring new technologies.
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaNayak-github&layout=compact)
 
 
 ## GitHub Stats
