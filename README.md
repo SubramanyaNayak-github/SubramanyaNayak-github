@@ -55,12 +55,5 @@ You can also find me on:
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaNayak-github&layout=compact)
 
-🔥 GitHub Contribution Streak:
-   - Total Contributions: [Total contributions till date]
-   - Current Streak: [Current streak]
-   - Longest Streak: [Longest streak]
-
-
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubramanyaNayak-github&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
