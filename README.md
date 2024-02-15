@@ -50,6 +50,9 @@ You can also find me on:
    - [Mail](subramanyanayak3@gmail.com)
 
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I love exploring new technologies.
+
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubramanyaNayak-github&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
