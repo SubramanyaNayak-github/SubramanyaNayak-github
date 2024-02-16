@@ -49,7 +49,10 @@ You can find me on:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="100">
 </a>
 
-   - <a href="mailto:subramanyanayak3@gmail.com"><img src="path_to_email_logo.png" alt="Mail" width="30px" height="30px"></a>
+   <a href="mailto:subramanyanayak3@gmail.com">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476486.png" alt="Mail" width="100" height="100">
+</a>
+
 
 
 ⚡ Fun fact: I love exploring new technologies.
