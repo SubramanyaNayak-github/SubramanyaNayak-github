@@ -26,7 +26,6 @@
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -45,9 +44,9 @@
 
 📫 How to reach me: 
        
-You can also find me on:
-   - [LinkedIn](https://www.linkedin.com/in/subramanya-nayak3)
-   - [Mail](subramanyanayak3@gmail.com)
+You can find me on:
+   - 💼 [LinkedIn](https://www.linkedin.com/in/subramanya-nayak3)
+   - 📧 [Email](mailto:subramanyanayak3@gmail.com)
 
 
 ⚡ Fun fact: I love exploring new technologies.
