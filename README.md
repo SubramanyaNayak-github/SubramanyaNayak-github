@@ -50,7 +50,7 @@ You can find me on:
 </a>
 
    <a href="mailto:subramanyanayak3@gmail.com">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476486.png" alt="Mail" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Mail_logo_initials.png" alt="Mail" width="100" height="100">
 </a>
 
 
