@@ -45,11 +45,18 @@
 📫 How to reach me: 
        
 You can find me on:
+
+
+
    <a href="https://www.linkedin.com/in/subramanya-nayak3">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="100">
 </a>
 
-   <a href="mailto:subramanyanayak3@gmail.com">
+   
+
+
+
+<a href="mailto:subramanyanayak3@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="Mail" width="100" height="100">
 </a>
 
